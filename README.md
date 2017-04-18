@@ -7,6 +7,9 @@ This repository functions as an archive of my master thesis work, it is not unde
 
 See also the original LAS paper by Chan et al:
 https://arxiv.org/abs/1508.01211
+For an in depth discussion of the architecture above including relevant background information
+you could take a look at my thesis text:
+https://github.com/v0lta/masterThesis/blob/master/thesis.pdf
 
 And plase consider using the tensorflow default attention code instead of this project:
 The relevants part of the new Tensorflow 1.0 API are:
