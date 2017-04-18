@@ -12,3 +12,5 @@ The relevants part of the new Tensorflow 1.0 API are:
 https://www.tensorflow.org/api_docs/python/tf/contrib/seq2seq
 My code is not yet using the default code, because it became avalable towards the end of my thesis
 project.
+An implementation using the new Tensorflow API is available at:
+https://github.com/vrenkens/nabu
