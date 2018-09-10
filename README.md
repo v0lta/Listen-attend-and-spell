@@ -5,7 +5,7 @@ However the tensor-flow default should be used for better performance.
 
 This repository functions as an archive of my master thesis work, it is not under active development.
 
-See also the original LAS paper by Chan et al:
+See also the original LAS paper by Chan et al.:
 https://arxiv.org/abs/1508.01211
 
 For an in depth discussion of the LAS-architecture including relevant background information
@@ -16,7 +16,7 @@ And please consider using the tensorflow default attention code instead of this 
 The relevant part of the new Tensorflow 1.0 API are:
 https://www.tensorflow.org/api_docs/python/tf/contrib/seq2seq
 
-My code is not yet using the default code, because it became avalable towards the end of my thesis
+My code is not yet using the default code, because it became available towards the end of my thesis
 project.
 An implementation using the new Tensorflow API is available at:
 https://github.com/vrenkens/nabu
