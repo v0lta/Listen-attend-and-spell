@@ -12,8 +12,8 @@ For an in depth discussion of the LAS-architecture including relevant background
 you could take a look at my thesis text:
 https://github.com/v0lta/masterThesis/blob/master/thesis.pdf
 
-And plase consider using the tensorflow default attention code instead of this project:
-The relevants part of the new Tensorflow 1.0 API are:
+And please consider using the tensorflow default attention code instead of this project:
+The relevant part of the new Tensorflow 1.0 API are:
 https://www.tensorflow.org/api_docs/python/tf/contrib/seq2seq
 
 My code is not yet using the default code, because it became avalable towards the end of my thesis
