@@ -10,7 +10,7 @@ https://arxiv.org/abs/1508.01211
 
 For an in depth discussion of the LAS-architecture including relevant background information
 you could take a look at my thesis text:
-https://github.com/v0lta/masterThesis/blob/master/thesis.pdf
+https://github.com/v0lta/masterThesis/blob/master/thesis.pdf .
 The figures and plots of the text are available at:
 https://github.com/v0lta/masterThesis
 
