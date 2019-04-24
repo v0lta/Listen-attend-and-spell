@@ -11,6 +11,8 @@ https://arxiv.org/abs/1508.01211
 For an in depth discussion of the LAS-architecture including relevant background information
 you could take a look at my thesis text:
 https://github.com/v0lta/masterThesis/blob/master/thesis.pdf
+The figures and plots of the text are available at:
+https://github.com/v0lta/masterThesis
 
 And please consider using the tensorflow default attention code instead of this project:
 The relevant part of the new Tensorflow 1.0 API are:
